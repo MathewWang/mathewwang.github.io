@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[马修修的技术博客]]></title>
   <link href="http://mathewwang.github.io/atom.xml" rel="self"/>
   <link href="http://mathewwang.github.io/"/>
-  <updated>2015-10-27T23:40:28+08:00</updated>
+  <updated>2015-10-28T00:07:33+08:00</updated>
   <id>http://mathewwang.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[马修修]]></name>
+    <email><![CDATA[wangwei_2000@126.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
