@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[马修修的技术博客]]></title>
-  <link href="http://mathewwang.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Summary | 马修修的技术博客]]></title>
+  <link href="http://mathewwang.github.io/blog/categories/summary/atom.xml" rel="self"/>
   <link href="http://mathewwang.github.io/"/>
   <updated>2015-10-28T17:52:56+08:00</updated>
   <id>http://mathewwang.github.io/</id>
