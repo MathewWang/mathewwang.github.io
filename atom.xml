@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[马修修的技术博客]]></title>
+  <link href="http://mathewwang.github.io/atom.xml" rel="self"/>
+  <link href="http://mathewwang.github.io/"/>
+  <updated>2015-10-28T10:34:12+08:00</updated>
+  <id>http://mathewwang.github.io/</id>
+  <author>
+    <name><![CDATA[马修修]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[如何通过octopress搭建博客]]></title>
+    <link href="http://mathewwang.github.io/blog/2015/10/27/ru-he-tong-guo-octopressda-jian-bo-bo-ke/"/>
+    <updated>2015-10-27T23:38:23+08:00</updated>
+    <id>http://mathewwang.github.io/blog/2015/10/27/ru-he-tong-guo-octopressda-jian-bo-bo-ke</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
