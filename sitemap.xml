@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://mathewwang.github.io/blog/2015/11/20/reactive-nativexue-xi-qu-xian/</loc>
+    <lastmod>2015-11-20T09:51:22+08:00</lastmod>
+  </url>
+  <url>
     <loc>http://mathewwang.github.io/blog/2015/10/27/ru-he-tong-guo-octopressda-jian-bo-bo-ke/</loc>
     <lastmod>2015-10-27T23:38:23+08:00</lastmod>
   </url>
@@ -12,5 +16,8 @@
   </url>
   <url>
     <loc>http://mathewwang.github.io/blog/categories/summary/</loc>
+  </url>
+  <url>
+    <loc>http://mathewwang.github.io/blog/categories/reactnative/</loc>
   </url>
 </urlset>

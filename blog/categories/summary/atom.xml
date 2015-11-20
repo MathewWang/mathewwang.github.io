@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Summary | 马修修的技术博客]]></title>
   <link href="http://mathewwang.github.io/blog/categories/summary/atom.xml" rel="self"/>
   <link href="http://mathewwang.github.io/"/>
-  <updated>2015-10-28T17:52:56+08:00</updated>
+  <updated>2015-11-20T09:59:13+08:00</updated>
   <id>http://mathewwang.github.io/</id>
   <author>
     <name><![CDATA[马修修]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reactive Native学习曲线]]></title>
+    <link href="http://mathewwang.github.io/blog/2015/11/20/reactive-nativexue-xi-qu-xian/"/>
+    <updated>2015-11-20T09:51:22+08:00</updated>
+    <id>http://mathewwang.github.io/blog/2015/11/20/reactive-nativexue-xi-qu-xian</id>
+    <content type="html"><![CDATA[<h1>移动端同学快速学习ReactNative的学习曲线（转载）</h1>
+
+<p>作为移动前端开发人员，这两天对React-Native以及所涉及的一些必须的技术进行了一下恶补，把网上比较好的学习资料搜集了一下，方便感兴趣的同学更快的了解和切入RN的开发，并且快速扫清背景知识。
+大家都不是新手，所以，我们不从“hello world”开始，而是针对以前没有前端开发经历的客户端开发同学，从最基础的背景技术开始演进：</p>
+
+<h3>HTML（学习时间30分钟）：</h3>
+
+<p>或多或少，大家肯定对HTML还是有所了解的，在开始前端之旅前，有必要系统的扫一下基础，推荐教程：<a href="http://www.jb51.net/shouce/html/html.htm">http://www.jb51.net/shouce/html/html.htm</a></p>
+
+<h3>Javascript （学习时间2小时）：</h3>
+
+<p>做前端开发，怎能不了解Javascript，还是花2个小时，静下心来，系统的学习一下，推荐教程：<a href="http://www.w3school.com.cn/js/index.asp">http://www.w3school.com.cn/js/index.asp</a></p>
+
+<h3>CSS</h3>
+
+<p>由于React-Native并不直接使用CSS文件定义样式，所以这部分可以先不看。</p>
+
+<h3>Node.js（学习时间2小时）：</h3>
+
+<p>由于React-Native是利用Node.js来搭建Javascript代码的，所以，最好也花点时间，稍微了解一下，推荐教程：<a href="http://www.runoob.com/nodejs/nodejs-callback.html">http://www.runoob.com/nodejs/nodejs-callback.html</a></p>
+
+<h3>ECMAScript6（学习时间8小时）：</h3>
+
+<p>学习了传统的Javascript基础，你会发现还是看不懂React-Native的代码，那是因为RN是遵循ES6的规范标准的，这个标准是2015年6月份才正式发布的，那是相当的新啊。传统Javascript语法上其实和c、java非常相似，很容易理解，但是ES6的很多语法和编译型语言相差很大，所以也需要多一些时间来学习。推荐教程：<a href="http://es6.ruanyifeng.com/#docs/intro">http://es6.ruanyifeng.com/#docs/intro</a></p>
+
+<h3>React（学习时间1小时）：</h3>
+
+<p>在学习React-Native之前，最好先了解一下React，毕竟RN就是从React演化来的，很多写法和思路是一致的。完整的学习是需要一定时间的，偷下懒，找个简单的入门教程，花1个小时就可以了解React的主要思路了：<a href="http://www.cocoachina.com/webapp/20150721/12692.html">http://www.cocoachina.com/webapp/20150721/12692.html</a></p>
+
+<h3>React-Native（入门学习12小时）：</h3>
+
+<p>最后才到我们的主角，但有了前面这些基础的铺垫，就算你没有前端开发的经历，理解RN也不困难了。这里有翻译好的官方文档：<a href="http://wiki.jikexueyuan.com/project/react-native/GettingStarted.html%EF%BC%8C%E5%89%8D%E9%9D%A2%E7%9A%84%E7%AB%A0%E8%8A%82%E7%BF%BB%E8%AF%91%E7%9A%84%E9%83%BD%E4%B8%8D%E9%94%99%EF%BC%8C%E4%BD%86%E6%98%AF%E5%90%8E%E9%9D%A2%E5%87%A0%E7%AB%A0%E7%BF%BB%E8%AF%91%E7%9A%84%E5%B0%B1%E6%9C%89%E7%82%B9%E7%83%82%E4%BA%86%EF%BC%8C%E5%A6%82%E6%9E%9C%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%EF%BC%8C%E5%B0%B1%E7%9B%B4%E6%8E%A5%E7%9C%8B%E5%8E%9F%E7%89%88%E7%9A%84%E5%90%A7%EF%BC%9A[http://facebook.github.io/react-native/docs/getting-started.html](http://facebook.github.io/react-native/docs/getting-started.html">http://wiki.jikexueyuan.com/project/react-native/GettingStarted.html</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[如何通过octopress搭建博客]]></title>
