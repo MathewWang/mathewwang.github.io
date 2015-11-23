@@ -24,4 +24,4 @@ categories: summary ReactNative
 ###React（学习时间1小时）：
 在学习React-Native之前，最好先了解一下React，毕竟RN就是从React演化来的，很多写法和思路是一致的。完整的学习是需要一定时间的，偷下懒，找个简单的入门教程，花1个小时就可以了解React的主要思路了：[http://www.cocoachina.com/webapp/20150721/12692.html](http://www.cocoachina.com/webapp/20150721/12692.html)
 ###React-Native（入门学习12小时）：
-最后才到我们的主角，但有了前面这些基础的铺垫，就算你没有前端开发的经历，理解RN也不困难了。这里有翻译好的官方文档：[http://wiki.jikexueyuan.com/project/react-native/GettingStarted.html](http://wiki.jikexueyuan.com/project/react-native/GettingStarted.html，前面的章节翻译的都不错，但是后面几章翻译的就有点烂了，如果看不下去，就直接看原版的吧：[http://facebook.github.io/react-native/docs/getting-started.html](http://facebook.github.io/react-native/docs/getting-started.html)
+最后才到我们的主角，但有了前面这些基础的铺垫，就算你没有前端开发的经历，理解RN也不困难了。这里有翻译好的官方文档：[http://wiki.jikexueyuan.com/project/react-native/GettingStarted.html](http://wiki.jikexueyuan.com/project/react-native/GettingStarted.html)，前面的章节翻译的都不错，但是后面几章翻译的就有点烂了，如果看不下去，就直接看原版的吧：[http://facebook.github.io/react-native/docs/getting-started.html](http://facebook.github.io/react-native/docs/getting-started.html)
